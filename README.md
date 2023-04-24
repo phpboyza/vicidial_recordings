@@ -18,3 +18,9 @@ You can configure which campaign id's this interface may have access to.
 Built on PHP 7.4.6, ViciBox Server v.10.0, MariaDB 10.5.8 (MySQL 8.x)
 
 I am actively maintaining this project
+
+**Installation**
+Clone project
+rename includes/config.inc.php.sample to includes/config.inc.php
+edit includes/config.inc.php to suit your setup
+Enjoy browsing through recordings
