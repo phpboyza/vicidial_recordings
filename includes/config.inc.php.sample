@@ -1,0 +1,9 @@
+<?php
+
+$campaign_ids = ['TestCam1'];
+$db['host'] = "localhost";
+$db['username'] = "recordings";
+$db['password'] = "rec password";
+$db['name'] = "asterisk";
+
+$title = "Recordings";
